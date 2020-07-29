@@ -10,3 +10,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcz9mm" />
 </a>
 
+## mcz9mm
+- [Qiita](https://qiita.com/mcz9mm)
+- [Twitter](https://twitter.com/mcz9mm)
+- []()
+- []()
+
+## 🎮 Hobby
+- [Final Fantasy XIV](https://jp.finalfantasyxiv.com/lodestone/character/3599139/)
+- 

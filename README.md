@@ -1,3 +1,3 @@
 # mcz9mm
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true?username=anuraghazra&show_icons=true)
+![mcz9mm github stats](https://github-readme-stats.vercel.app/api?username=mcz9mm&count_private=true?username=mcz9mm&show_icons=true)

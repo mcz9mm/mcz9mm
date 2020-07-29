@@ -1,4 +1,7 @@
-# mcz9mm
+![swift](https://img.shields.io/badge/Swift-orange.svg)
+![kotlin](https://img.shields.io/badge/Kotlin-purple.svg)
+![dart](https://img.shields.io/badge/Dart-blue.svg)
+![twitter](https://img.shields.io/badge/twitter-@mcz9mm-yellow.svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mcz9mm&count_private=true&show_icons=true" />
@@ -6,3 +9,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcz9mm" />
 </a>
+
